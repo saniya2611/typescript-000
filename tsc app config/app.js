@@ -1,1 +1,0 @@
-var cl = console.log;
